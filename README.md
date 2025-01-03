@@ -21,6 +21,10 @@ Effortlessly track, manage, and analyze your expenses with this powerful **Expen
 
 ---
 
+![Expense_Track](https://github.com/Rohesen/Expense-Tracking-System/blob/main/Expense_tracker_preview.gif)
+
+
+
 ## 🚀 Getting Started
 
 Follow these steps to get the system up and running on your local machine:
